@@ -64,7 +64,7 @@ Register-Form/
 
 ## 🚀 Live Demo
 
-[Live Link] (https://karthigap20.github.io/Register-form/)
+[Live Link](https://karthigap20.github.io/Register-form/)
 
 ## 💬 Feedback
 
