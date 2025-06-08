@@ -64,7 +64,7 @@ Register-Form/
 
 ## 🚀 Live Demo
 
-> Coming soon... (or update with GitHub Pages link once deployed)
+[Live Link] (https://karthigap20.github.io/Register-form/)
 
 ## 💬 Feedback
 
